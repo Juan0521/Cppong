@@ -28,3 +28,7 @@ El proyecto está estructurado en un solo archivo fuente (`main.cpp`). Aquí se 
        Vector2 size;
        int life;
    } Player;
+
+2. **Codigo Usado**: Eh usado codigo de el repositorio de raysan5
+   ```
+   https://github.com/raysan5/raylib-games/blob/master/classics/src/arkanoid.c
