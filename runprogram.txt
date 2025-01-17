@@ -1,0 +1,2 @@
+cmake --build . --clean-first
+.\debug\Cppong.exe
